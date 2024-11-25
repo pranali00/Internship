@@ -19,7 +19,7 @@ Mysql
 ## Requirements Windows:
 
 ```sh
-1 Download & Install: XAMPP in C:\xampp (default)
+1 Download & Install: XAMPP 
 2 Clone this repository in C:\xampp\htdocs
 3 Run XAMPP and start "Apache" and "MySQL"
 4 Open the link "localhost/phpmyadmin/"
