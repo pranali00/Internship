@@ -14,6 +14,15 @@ Allows customers to book rooms online,Maintains records of customer details ,Dis
 
 ![WhatsApp Image 2024-11-25 at 23 49 43_12024eae](https://github.com/user-attachments/assets/906083c1-ba27-4bcd-b35d-e5ab85ec2518)
 
+![WhatsApp Image 2024-11-25 at 23 56 51_ba26c2a7](https://github.com/user-attachments/assets/579ea636-c0fa-4dbe-95ea-2086b9a5a018)
+
+![WhatsApp Image 2024-11-25 at 23 56 51_ffca9538](https://github.com/user-attachments/assets/c2207e38-78f7-409a-a066-68f335e2fa99)
+
+![WhatsApp Image 2024-11-26 at 00 01 57_94a76646](https://github.com/user-attachments/assets/b5432ef3-d0f3-4c5b-9e49-cbf5a4cd0fc6)
+
+
+
+
 
 
 
