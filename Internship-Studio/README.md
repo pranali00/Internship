@@ -2,7 +2,7 @@ Hotel-Management-System
 
 The Hotel Management System is designed to automate hotel operations. The application provides features such as:
 
-Room Booking: Allows customers to book rooms online,Maintains records of customer details ,Displays available rooms in real-time ,Generates bills for customers and accepts online payments ,For managing bookings, customers, and hotel services.
+Allows customers to book rooms online,Maintains records of customer details ,Displays available rooms in real-time ,Generates bills for customers and accepts online payments ,Admin can managing bookings, customers, and hotel services.
 
 
 ## Tech Stack 
